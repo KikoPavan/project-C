@@ -1,0 +1,6 @@
+{
+    "c-cpp-compile-run.run-in-external-terminal": true,
+    "c-cpp-compile-run.run-args": "pwsh.exe",
+    "c-cpp-compile-run.c-compiler": "C:\\MinGW\\bin\\gcc.exe",
+    "c-cpp-compile-run.cpp-compiler": "C:\\MinGW\\bin\\g++.exe"
+}
